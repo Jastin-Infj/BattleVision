@@ -10,7 +10,6 @@ Battle Vision is a powerful platform for Pokémon Trainers to easily analyze the
 - PC
 
 **機能**
-
 - 対戦の記録
 - ポケモンのデータ管理およびパーティ管理
 - 今までの記録内容から、自分の強みと弱みを分析
@@ -18,7 +17,7 @@ Battle Vision is a powerful platform for Pokémon Trainers to easily analyze the
 # 使用技術
 
 **画面設計**
-- Figma
+- Figma  
 ワイヤーフレームとして利用。
 
 **フロンドエンド側**
@@ -27,18 +26,17 @@ Battle Vision is a powerful platform for Pokémon Trainers to easily analyze the
 - Javascript
 - React
 
-**採用理由**
+**採用理由**  
 スマホアプリ開発を見据えた、React Nativeの将来性を見通した設計にしたかったこと
 Reactより比較的簡単に導入可能なフレームワーク"Vue.js"はあるが、上記の理由によりなくなった。
 
-**P.S.**
+**P.S.**  
 Vue.jsはまだ比較段階であり、開発中に選定する。(正直選択を迷っているので、アプリケーションとして非推奨だが、Vue.jsの併用も考えている)
-
 
 **検討中**
 - Vue.js
 
-**P.S.**
+**P.S.**  
 GCPとの相性が良いこと、ReactとVue.jsの違いをサンプルコードなど比較しても、
 実際に開発してみないと分からない部分があると思い、検討。
 
@@ -46,7 +44,7 @@ GCPとの相性が良いこと、ReactとVue.jsの違いをサンプルコード
 **バックエンド側**
 - Python(Django)
 
-**採用理由**
+**採用理由**  
 データ分析を今後機能として主力にするため、2023年現在Pythonをなるべく触っておくため
 
 
@@ -57,7 +55,7 @@ GCPとの相性が良いこと、ReactとVue.jsの違いをサンプルコード
 **データベース**
 - GCP
 
-**採用理由**
+**採用理由**  
 GCPの需要が今後増えると過程したため。
 "利用者が増える"と意味合いも含まれているが、社員のスキルに着目。
 Statistaの統計によけば、AWSは4割利用されている。
