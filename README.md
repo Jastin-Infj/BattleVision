@@ -26,7 +26,7 @@ Battle Vision is a powerful platform for Pokémon Trainers to easily analyze the
 - Javascript
 - React
 
-**採用理由**  
+**React採用理由**  
 スマホアプリ開発を見据えた、React Nativeの将来性を見通した設計にしたかったこと
 Reactより比較的簡単に導入可能なフレームワーク"Vue.js"はあるが、上記の理由によりなくなった。
 
@@ -44,13 +44,10 @@ GCPとの相性が良いこと、ReactとVue.jsの違いをサンプルコード
 **バックエンド側**
 - Python(Django)
 
-**採用理由**  
-データ分析を今後機能として主力にするため、2023年現在Pythonをなるべく触っておくため
-
-
+**Python採用理由**  
+データ分析を今後機能として主力にするため、2023年現在Pythonをなるべく触っておくため  
 **検討中**
 - PHP(Laravel)
-
 
 **データベース**
 - GCP
