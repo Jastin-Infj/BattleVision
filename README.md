@@ -24,14 +24,19 @@ Battle Vision is a powerful platform for Pokémon Trainers to easily analyze the
 - HTML
 - Sass
 - Javascript
-- React
+**ライブラリおよびフレームワーク等**
+- Svelte(メイン)  
+- React(サブ)
+- Vue.js(サブ)
+- Angular(サブ)
+**メインフレームワーク**
+- simple-spa
 
-**React採用理由**  
-スマホアプリ開発を見据えた、React Nativeの将来性を見通した設計にしたかったこと
-Reactより比較的簡単に導入可能なフレームワーク"Vue.js"はあるが、上記の理由によりなくなった。
+**採用理由**  
+未入力
 
 **P.S.**  
-Vue.jsはまだ比較段階であり、開発中に選定する。(正直選択を迷っているので、アプリケーションとして非推奨だが、Vue.jsの併用も考えている)
+未入力
 
 **検討中**
 - Vue.js
